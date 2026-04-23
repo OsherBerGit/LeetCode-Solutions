@@ -8,7 +8,7 @@ This repository contains my personal solutions to various algorithmic problems f
 It serves as a personal tracking tool for daily practice, focusing on improving **algorithmic thinking**, mastering data structures, and writing clean, production-ready Python code.
 
 ## 🎯 Focus Areas
-* **Algorithm Efficiency:** Every solution includes a strict analysis of **Time ($O(n)$)** and **Space ($O(n)$)** complexity.
+* **Algorithm Efficiency:** Every solution includes a strict analysis of **Time (O(n))** and **Space (O(n))** complexity.
 * **Clean Code:** Prioritizing readability, logical variable naming, and straightforward logic over "clever" one-liners.
 * **Problem Solving:** Utilizing appropriate data structures (Hash Maps, Linked Lists, Trees, Two Pointers, Sliding Window) to solve bottlenecks.
 
