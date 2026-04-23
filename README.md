@@ -24,6 +24,7 @@ The repository is organized by problem difficulty. Each file is named with the p
 ## 📝 Solution Documentation Format
 To maintain a high standard of documentation, each solution includes a header outlining the problem context and the strategy used:
 
+```python
 # Problem: Problem Name (LeetCode #Number)
 # Link: [https://leetcode.com/problems/problem-name/](https://leetcode.com/problems/problem-name/)
 # Complexity: Time O(n), Space O(1)
@@ -31,3 +32,4 @@ To maintain a high standard of documentation, each solution includes a header ou
 
 def functionName(self, nums: List[int]) -> int:
     # Clean, readable code here...
+```
